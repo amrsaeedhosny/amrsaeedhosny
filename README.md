@@ -4,4 +4,4 @@
 
 ![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrsaeedhosny&show_icons=true&theme=dark&count_private=true&hide=issues,contribs&include_all_commits=true&hide_rank=false&line_height=30&bg_color=161b22&icon_color=00acee)
 &ensp;&ensp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrsaeedhosny&layout=compact&theme=dark&bg_color=161b22&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrsaeedhosny&layout=compact&theme=dark&bg_color=161b22&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
