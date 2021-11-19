@@ -1,4 +1,4 @@
-[![Amr's GitHub Banner](./assets/images/header.png)](https://github.com/amrsaeedhosny)
+[![Amr's GitHub Banner](./assets/images/banner.png)](https://github.com/amrsaeedhosny)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8&color=2a333d)](https://www.linkedin.com/in/amrsaeedhosny/)
 &ensp;
