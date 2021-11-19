@@ -1,3 +1,5 @@
+[![Amr's GitHub Banner](./assets/images/header.png)](https://github.com/amrsaeedhosny)
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8&color=2a333d)](https://www.linkedin.com/in/amrsaeedhosny/)
 &ensp;
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&labelColor=00acee&color=2a333d)](https://twitter.com/amrsaeedhosny)
